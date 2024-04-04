@@ -1,5 +1,3 @@
-#!/github.com/Heimeinsheu/Heimeinsheu/edit/main/style.css
-
 ### Hi there 👋
 
 <!--
